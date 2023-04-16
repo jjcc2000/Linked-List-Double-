@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "y": "^0.3.2"
+  },
+  "name": "datastructsjs",
+  "version": "1.0.0",
+  "main": "linklist.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
